@@ -1,0 +1,16 @@
+.container{
+    overflow: auto;
+}
+
+
+.text{
+    font-family: fatfrank,Comic Sans MS,sans-serif;
+    color: white;
+    font-size: 1.5rem;
+
+}
+
+.header-menu h1{
+    color: white;
+    font-size: 1.5rem;
+}
