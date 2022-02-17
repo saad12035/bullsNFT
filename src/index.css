@@ -1,5 +1,17 @@
 @import '~antd/dist/antd.css';
 
+@font-face {
+  font-family: "ConflictDrips";
+  src: local("ConflictDrips"),url("./fonts/font/ConflictDripsPersonalUseBold-WyKXn.ttf") format("truetype");
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: "ConflictDrips2";
+  src: local("ConflictDrips2"),url("./fonts/font/DrippingDrops-PKPyx(1).otf") format("truetype");
+}
+
 
 body {
   margin: 0;
