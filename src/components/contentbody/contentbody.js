@@ -59,7 +59,7 @@ function ContextBody() {
           <Col span={10} offset={2}>
             <Image
                 style={{width: 500, height: 500, marginTop: 50}}
-                src={require('../../images/ezgif-1-5d4450b0a4.gif')}
+                src={require('../../images/image.png')}
             />
           </Col>
           <Col span={10}>
@@ -106,7 +106,7 @@ function ContextBody() {
           <Col span={10} offset={1}>
             <Image
                 style={{width: 500, height: 500, marginTop: 50}}
-                src={require('../../images/ezgif-1-5d4450b0a4.gif')}
+                src={require('../../images/collage.png')}
             />
           </Col>
         </Row>
