@@ -76,8 +76,41 @@ function ContextBody() {
 
         </Row>
         <Row>
-
           <Col span={10} offset={2}>
+            <div className="hero-text4">
+              <h1>Price</h1>
+              <h2>0 - 100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.01 ETH<br/>
+
+                101 – 500&nbsp;&nbsp;&nbsp;&nbsp; | 0.02 ETH<br/>
+
+                501 – 1000&nbsp;&nbsp; | 0.04 ETH<br/>
+
+                1001 - 2000 | 0.08 ETH<br/>
+
+                2001 – 3000 | 0.16 ETH<br/>
+
+                3001 – 5000 | 0.32 ETH<br/>
+
+                5001 – 7000 | 0.64 ETH<br/></h2>
+            </div>
+          </Col>
+          <Col span={10} offset={1}>
+            <Image
+                style={{width: 500, height: 500, marginTop: 50}}
+                src={require('../../images/WhatsApp Image 2022-02-17 at 7.41.39 PM.jpeg')}
+            />
+          </Col>
+
+
+        </Row>
+        <Row>
+          <Col span={10} offset={2}>
+            <Image
+                style={{width: 500, height: 500, marginTop: 50}}
+                src={require('../../images/image.png')}
+            />
+          </Col>
+          <Col span={10} offset={1}>
             <div className="hero-text3">
               <h1>ROADMAP</h1>
               <h2 >Phase 1</h2>
@@ -103,13 +136,9 @@ function ContextBody() {
                 - Whitelist access to Trippy bull holders on the next project launches<br/></h3>
             </div>
           </Col>
-          <Col span={10} offset={1}>
-            <Image
-                style={{width: 500, height: 500, marginTop: 50}}
-                src={require('../../images/image.png')}
-            />
-          </Col>
+
         </Row>
+
       </div>
 
   );
