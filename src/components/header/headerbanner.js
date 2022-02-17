@@ -9,8 +9,8 @@ function HeaderBanner(){
           <Col span={4}>
             <Image
                 preview={false}
-                style={{marginLeft:100,marginTop:-100}}
-                src={require('../../images/logo_new.png')}
+                style={{marginLeft:100,marginTop:-80}}
+                src={require('../../images/StraightLogo.png')}
             />
           </Col>
           <Col span={8} offset={7}>
