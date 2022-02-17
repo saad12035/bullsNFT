@@ -79,7 +79,7 @@ function ContextBody() {
           <Col span={10} offset={2}>
             <div className="hero-text4">
               <h1>Price</h1>
-              <h2>0 - 100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.01 ETH<br/>
+              <h2>1 - 100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0.01 ETH<br/>
 
                 101 – 500&nbsp;&nbsp;&nbsp;&nbsp; | 0.02 ETH<br/>
 
