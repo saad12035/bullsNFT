@@ -43,9 +43,10 @@ function ContextBody() {
                   />
                 </Col>
               </Row>
-
-
-            </div>
+              <div className="button">
+              <h1>MINT</h1>
+              </div>
+              </div>
           </Col>
           <Col span={10} offset={1}>
             <Image
