@@ -2,11 +2,13 @@ import './headerbanner.css';
 import {Row, Col, Image} from 'antd';
 
 function HeaderBanner(){
+
   return(
       <div className="container">
         <Row>
           <Col span={4}>
             <Image
+                preview={false}
                 style={{justifyContent:"center",width:80,height:80,marginLeft:100,marginTop:10}}
                 src={require('../../images/Untitled87_20220212095957.png')}
             />
@@ -53,6 +55,7 @@ function HeaderBanner(){
 
           </Col>
         </Row>
+
       </div>
   );
 }
