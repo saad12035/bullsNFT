@@ -1,0 +1,282 @@
+.font-link {
+  font-family: "Pirata", cursive;
+}
+
+.hero-text {
+  margin-top: 120px;
+}
+
+.img2 {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.hero-text h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.2;
+  font-family: ConflictDrips;
+}
+
+.hero-text h2 {
+  margin-left: 20px !important;
+  margin-top: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.2;
+  font-family: "Pirata", cursive;
+}
+
+.hero-text2 h1 {
+  margin-top: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.2;
+  font-family: ConflictDrips;
+}
+
+.hero-text2 h2 {
+  margin-top: 10px;
+  color: white;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.5;
+  font-family: "Pirata", cursive;
+}
+
+.hero-text4 h1 {
+  margin-top: 70px;
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.2;
+  font-family: ConflictDrips;
+}
+
+.hero-text4 h2 {
+  margin-top: 10px;
+  color: white;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 1.5;
+  font-family: "Pirata", cursive;
+}
+.button {
+  background-color: white;
+  width: 45%;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.button h1 {
+  color: black;
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+}
+.hero-text3 h1 {
+  margin-top: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.2;
+  font-family: ConflictDrips;
+}
+
+.hero-text3 h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1;
+  font-family: "Pirata", cursive;
+}
+
+.hero-text3 h3 {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1;
+  font-family: "Pirata", cursive;
+}
+
+.img1 {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.plis {
+  width: 50;
+  height: 50;
+  margin-top: 20;
+  margin-left: 20;
+}
+
+.minis {
+  width: 50px;
+  height: 50;
+  margin-top: 20;
+  margin-left: 20;
+}
+.img3 {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.img4 {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+  .hero-text3 h1 {
+    margin-left: 70px;
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-family: ConflictDrips;
+  }
+
+  .hero-text3 h2 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 1;
+    font-family: "Pirata", cursive;
+  }
+
+  .hero-text3 h3 {
+    margin-left: 20px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1;
+    font-family: "Pirata", cursive;
+  }
+  .img4 {
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  .img3 {
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+
+  .minis {
+    width: 30px;
+    height: 30;
+    margin-top: 20;
+    margin-left: 50px;
+  }
+  .img2 {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 40px;
+  }
+
+  .hero-text4 h1 {
+    margin-left: 70px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1.2;
+    font-family: ConflictDrips;
+  }
+
+  .hero-text4 h2 {
+    margin-left: 50px;
+    margin-top: -10px;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: "Pirata", cursive;
+  }
+  .img1 {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 55px;
+  }
+  .hero-text {
+    margin-top: 70px;
+    margin-left: 0px;
+    text-align: center;
+  }
+
+  .hero-text h1 {
+    margin-top: 40px;
+    margin-left: -20px;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.2;
+    font-family: ConflictDrips;
+  }
+
+  .hero-text h2 {
+    margin-left: 50px !important;
+    margin-top: -15px;
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-family: "Pirata", cursive;
+  }
+
+  .plis {
+    width: 30px;
+    height: 30px;
+    margin-top: 20;
+    margin-left: 50px;
+  }
+
+  .button {
+    background-color: white;
+    width: 45%;
+    margin-left: 85px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: -40px;
+  }
+  .button h1 {
+    color: black;
+    font-weight: 500;
+    font-size: 30px;
+    padding-top: 5px;
+  }
+  .hero-text2 h1 {
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1.2;
+    font-family: ConflictDrips;
+  }
+
+  .hero-text2 h2 {
+    text-align: center;
+    margin-left: 30px;
+    margin-top: -10px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    font-family: "Pirata", cursive;
+  }
+}
